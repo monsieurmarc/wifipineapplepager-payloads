@@ -11,11 +11,11 @@ This repository contains payloads, themes and ringtones for the Hak5 WiFi Pineap
 
 
 <div align="center">
-<img src="https://img.shields.io/github/forks/hak5/wifipineapple-pager?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/hak5/wifipineapplepager-payloads?style=for-the-badge"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/hak5/wifipineapple-pager?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/hak5/wifipineapplepager-payloads?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/github/commit-activity/y/hak5/wifipineapple-pager?style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/y/hak5/wifipineapplepager-payloads?style=for-the-badge">
 <img src="https://img.shields.io/github/contributors/hak5/wifipineapple-pager?style=for-the-badge">
 </div>
 <br/>
